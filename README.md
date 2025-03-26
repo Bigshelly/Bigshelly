@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bigshelly
+- 👋 Hi, I’m Jonathan
 - 👀 I’m interested in app development and website development
 - 🌱 I’m currently learning web development, I'm very new to this
 - 💞️ I’m looking to collaborate on website projects, any project where i can learn 
